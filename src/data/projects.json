@@ -1,0 +1,90 @@
+[
+  {
+    "id": "proj-1",
+    "title": "Water and Society – Institutional Capacity Building in Water Management and Climate Change adaptation in selected countries in Asia (WaSo-Asia)",
+    "images": [
+      "/tiles/project-1.jpg",
+      "/tiles/project-1b.jpg",
+      "/tiles/project-1c.jpg"
+    ],
+    "summary": "Project Coordination, 2014–2018; NORAD-supported network.",
+    "body": "Water challenges are locally specific, but many underlying questions — governance, adaptation, capacity and community needs — are shared. International collaboration is most valuable when it does not simply transfer solutions, but creates opportunities to learn from different contexts."
+  },
+  {
+    "id": "proj-2",
+    "title": "Remote Sensing Technology in River Basin Management",
+    "summary": "Placeholder summary — replace with real description.",
+    "body": "Placeholder body text — replace with real description of this project.",
+    "images": [
+      "/tiles/project-2.jpg",
+      "/tiles/project-2b.jpg",
+      "/tiles/project-2c.jpg"
+    ]
+  },
+  {
+    "id": "proj-3",
+    "title": "Strengthening Environmental & Social Framework (ESF) Capacity in Bangladesh and Bhutan-funded by the World Bank",
+    "summary": "Placeholder summary — replace with real description.",
+    "body": "Placeholder body text — replace with real description of this project.",
+    "images": [
+      "/tiles/project-3.jpg",
+      "/tiles/project-3b.jpg",
+      "/tiles/project-3c.jpg"
+    ]
+  },
+  {
+    "id": "proj-4",
+    "title": "Agrometeorological data analysis and future scenario development of 487 Upazilas in Bangladesh",
+    "summary": "Placeholder summary — replace with real description.",
+    "body": "Placeholder body text — replace with real description of this project.",
+    "images": [
+      "/tiles/project-4.jpg",
+      "/tiles/project-4b.jpg",
+      "/tiles/project-4c.jpg"
+    ]
+  },
+  {
+    "id": "proj-5",
+    "title": "Project 5 — title to be added",
+    "summary": "Placeholder summary — replace with real description.",
+    "body": "Placeholder body text — replace with real description of this project.",
+    "images": [
+      "/tiles/project-5.jpg",
+      "/tiles/project-5b.jpg",
+      "/tiles/project-5c.jpg"
+    ]
+  },
+  {
+    "id": "proj-6",
+    "title": "Project 6 — title to be added",
+    "summary": "Placeholder summary — replace with real description.",
+    "body": "Placeholder body text — replace with real description of this project.",
+    "images": [
+      "/tiles/project-6.jpg",
+      "/tiles/project-6b.jpg",
+      "/tiles/project-6c.jpg"
+    ]
+  },
+  {
+    "id": "proj-7",
+    "title": "Project 7 — title to be added",
+    "summary": "Placeholder summary — replace with real description.",
+    "body": "Placeholder body text — replace with real description of this project.",
+    "images": [
+      "/tiles/project-7.jpg",
+      "/tiles/project-7b.jpg",
+      "/tiles/project-7c.jpg"
+    ]
+  },
+  {
+    "id": "proj-8",
+    "title": "Project 8 — title to be added",
+    "summary": "Placeholder summary — replace with real description.",
+    "body": "Placeholder body text — replace with real description of this project.",
+    "images": [
+      "/tiles/project-8.jpg",
+      "/tiles/project-8b.jpg",
+      "/tiles/project-8c.jpg"
+    ]
+  }
+]

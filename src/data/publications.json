@@ -1,0 +1,67 @@
+{
+  "journals": [
+    {
+      "id": "j-1",
+      "title": "Reporter immunogenicity as a defined rejection antigen: a noninvasive platform for skin transplant immunobiology",
+      "authors": "Sydney Jeffs, John S Wang, Reshma Goud, Jackie No, Gerald Lorio, Guang Han Lin, Nicole Moon, Violet Y Tu, Timothy N Trotter, Zachary C Hartman, Tatiana Segura",
+      "venue": "Front Immunol. 2026 Sep 1;17:1859500. eCollection 2026.",
+      "doi": "10.3389/fimmu.2026.1859500",
+      "link": ""
+    },
+    {
+      "id": "j-2",
+      "title": "Endogenous neoantigen-specific antibodies mediate antitumor responses and determine vaccine efficacy",
+      "authors": "Sirajbir S Sodhi, John S Wang, David T Severson, Joey V Ragusa, Nicole Moon, Timothy Trotter, Li-Chung Tsao, Herbert Kim Lyerly, Zachary Conrad Hartman",
+      "venue": "J Immunother Cancer. 2026 May 7;14(5):e014671.",
+      "doi": "10.1136/jitc-2025-014671",
+      "link": ""
+    },
+    {
+      "id": "j-3",
+      "title": "Development of a STEAP1-Targeted Prostate Cancer Specific Antibody Drug Conjugate Platform with Immunostimulatory Properties",
+      "authors": "John Shuhan Wang, Sirajbir S Sodhi, Li-Chung Tsao, Guang Han Lin, Nicole Moon, Qiang Zhang, Bushangging Liu, Juliet Penaranda, Timothy N Trotter, Jason A Somarelli, Andrew J Armstrong, H Kim Lyerly, Guangdi Wang, Zachary C Hartman",
+      "venue": "Res Sq [Preprint]. 2026 Apr 24;rs.3.rs-9194287.",
+      "doi": "10.21203/rs.3.rs-9194287/v1",
+      "link": ""
+    }
+  ],
+  "conferences": [],
+  "books": [
+    {
+      "id": "b-1",
+      "title": "Book Title Goes Here",
+      "authors": "Author Name(s)",
+      "venue": "Publisher, Year",
+      "doi": "",
+      "link": "",
+      "cover": "/tiles/book-1.jpg"
+    },
+    {
+      "id": "b-2",
+      "title": "Book Title Goes Here",
+      "authors": "Author Name(s)",
+      "venue": "Publisher, Year",
+      "doi": "",
+      "link": "",
+      "cover": "/tiles/book-2.jpg"
+    },
+    {
+      "id": "b-3",
+      "title": "Book Title Goes Here",
+      "authors": "Author Name(s)",
+      "venue": "Publisher, Year",
+      "doi": "",
+      "link": "",
+      "cover": "/tiles/book-3.jpg"
+    },
+    {
+      "id": "b-4",
+      "title": "Book Title Goes Here",
+      "authors": "Author Name(s)",
+      "venue": "Publisher, Year",
+      "doi": "",
+      "link": "",
+      "cover": "/tiles/book-4.jpg"
+    }
+  ]
+}

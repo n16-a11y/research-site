@@ -1,0 +1,78 @@
+{
+  "projectsPreview": [
+    {
+      "id": "proj-1",
+      "title": "Water and Society \u2013 Institutional Capacity Building in Water Management and Climate Change adaptation in selected countries in Asia (WaSo-Asia)",
+      "image": "/tiles/project-1.jpg",
+      "linkTo": "/projects"
+    },
+    {
+      "id": "proj-2",
+      "title": "Remote Sensing Technology in River Basin Management",
+      "image": "/tiles/project-2.jpg",
+      "linkTo": "/projects"
+    },
+    {
+      "id": "proj-3",
+      "title": "Strengthening Environmental & Social Framework (ESF) Capacity in Bangladesh and Bhutan-funded by the World Bank",
+      "image": "/tiles/project-3.jpg",
+      "linkTo": "/projects"
+    },
+    {
+      "id": "proj-4",
+      "title": "Agrometeorological data analysis and future scenario development of 487 Upazilas in Bangladesh",
+      "image": "/tiles/project-4.jpg",
+      "linkTo": "/projects"
+    },
+    {
+      "id": "proj-5",
+      "title": "Project 5 \u2014 title to be added",
+      "image": "/tiles/project-5.jpg",
+      "linkTo": "/projects"
+    },
+    {
+      "id": "proj-6",
+      "title": "Project 6 \u2014 title to be added",
+      "image": "/tiles/project-6.jpg",
+      "linkTo": "/projects"
+    },
+    {
+      "id": "proj-7",
+      "title": "Project 7 \u2014 title to be added",
+      "image": "/tiles/project-7.jpg",
+      "linkTo": "/projects"
+    },
+    {
+      "id": "proj-8",
+      "title": "Project 8 \u2014 title to be added",
+      "image": "/tiles/project-8.jpg",
+      "linkTo": "/projects"
+    }
+  ],
+  "cores": [
+    {
+      "id": "core-1",
+      "title": "Infrastructural Occupational Health and Safety",
+      "image": "/tiles/core-1.jpg",
+      "linkTo": "/cores"
+    },
+    {
+      "id": "core-2",
+      "title": "Environmental & Social Safeguards Management",
+      "image": "/tiles/core-2.jpg",
+      "linkTo": "/cores"
+    },
+    {
+      "id": "core-3",
+      "title": "Environmental & Social Impact Assessment (ESIA)",
+      "image": "/tiles/core-3.jpg",
+      "linkTo": "/cores"
+    },
+    {
+      "id": "core-4",
+      "title": "Geo Enabling and Monitoring System",
+      "image": "/tiles/core-4.jpg",
+      "linkTo": "/cores"
+    }
+  ]
+}

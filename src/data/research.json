@@ -1,0 +1,16 @@
+[
+  {
+    "id": "research-1",
+    "title": "Water Quality and Public Health",
+    "images": ["/tiles/research-1.jpg", "/tiles/research-1b.jpg", "/tiles/research-1c.jpg"],
+    "summary": "Examining the links between water quality parameters and community health outcomes.",
+    "body": "This research area focuses on characterizing contaminants in drinking water sources and assessing their relationship to public health outcomes across urban and rural communities in Bangladesh."
+  },
+  {
+    "id": "research-2",
+    "title": "Urban Drainage and Stormwater Management",
+    "images": ["/tiles/research-2.jpg", "/tiles/research-2b.jpg", "/tiles/research-2c.jpg"],
+    "summary": "Studying urban drainage systems and nature-based solutions for stormwater management.",
+    "body": "Work in this area covers hydrological modeling of urban drainage networks and the evaluation of blue-green infrastructure as a mitigation strategy for urban flooding and waterlogging."
+  }
+]

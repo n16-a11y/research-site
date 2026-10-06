@@ -1,0 +1,44 @@
+[
+  {
+    "id": "core-1",
+    "title": "Infrastructural Occupational Health and Safety",
+    "image": "/tiles/core-1.jpg",
+    "summary": "Placeholder summary \u2014 replace with real description.",
+    "body": "Placeholder body text \u2014 replace with real description of this core's activities and scope."
+  },
+  {
+    "id": "core-2",
+    "title": "Environmental & Social Safeguards Management",
+    "image": "/tiles/core-2.jpg",
+    "summary": "Placeholder summary \u2014 replace with real description.",
+    "body": "Placeholder body text \u2014 replace with real description of this core's activities and scope."
+  },
+  {
+    "id": "core-3",
+    "title": "Environmental & Social Impact Assessment (ESIA)",
+    "image": "/tiles/core-3.jpg",
+    "summary": "Placeholder summary \u2014 replace with real description.",
+    "body": "Placeholder body text \u2014 replace with real description of this core's activities and scope."
+  },
+  {
+    "id": "core-4",
+    "title": "Geo Enabling and Monitoring System",
+    "image": "/tiles/core-4.jpg",
+    "summary": "Placeholder summary \u2014 replace with real description.",
+    "body": "Placeholder body text \u2014 replace with real description of this core's activities and scope."
+  },
+  {
+    "id": "core-5",
+    "title": "Remote Sensing and Digital Twin",
+    "image": "/tiles/core-5.jpg",
+    "summary": "Placeholder summary \u2014 replace with real description.",
+    "body": "Placeholder body text \u2014 replace with real description of this core's activities and scope."
+  },
+  {
+    "id": "core-6",
+    "title": "Strategic Execution & Program Leadership",
+    "image": "/tiles/core-6.jpg",
+    "summary": "Placeholder summary \u2014 replace with real description.",
+    "body": "Placeholder body text \u2014 replace with real description of this core's activities and scope."
+  }
+]
